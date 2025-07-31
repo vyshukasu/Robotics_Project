@@ -1,5 +1,5 @@
 
-# 🗣️ Speech-to-Text Robotic Writing System ✍️
+# 🗣️ AI Neuro Plot  ✍️
 
 ## Overview
 
